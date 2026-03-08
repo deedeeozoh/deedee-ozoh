@@ -7,13 +7,11 @@ Right now, I’m focused on growing into a more **independent and confident anal
 ---
 
 ## 💡 What I’m open to
-✅ **Outsourcing / contract projects** (remote-friendly)  
+✅ **Projects** (hybrid/remote) 
 I’m interested in contributing to short-term or ongoing projects related to:
 - Data analysis & reporting
 - Dashboards (Tableau / Power BI)
 - SQL querying & data cleaning
-
-If you have a project that needs clear analysis and reliable follow-through, feel free to reach out.
 
 ---
 
